@@ -75,4 +75,3 @@ export default function App() {
 
 ## Auteur
 * [Boucher Alexis](https://github.com/Alexlemars)#boucher_alexis_14_16052022__npm-modal
-# boucher_alexis_14_16052022__npm-modal
