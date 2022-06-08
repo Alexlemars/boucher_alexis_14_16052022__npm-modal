@@ -20,13 +20,13 @@ They can open and close it
 ### Installation
 
 ```console
-npm i alexlemars_75-npm-modal
+npm i @alexlemars_75/npm-modal
 ```
 
 ### Import the componant
 
 ```js
-import { Modal } from 'alexlemars_75-npm-modal';
+import { Modal } from '@alexlemars_75/npm-modal';
 ```
 
 ### Use the component
@@ -34,7 +34,7 @@ import { Modal } from 'alexlemars_75-npm-modal';
 If you use useState hook you can do like this :
 
 ```js
-import { Modal } from 'alexlemars_75_modal' 
+import { Modal } from '@alexlemars_75/npm-modal' 
 
 export default function App() {
 
