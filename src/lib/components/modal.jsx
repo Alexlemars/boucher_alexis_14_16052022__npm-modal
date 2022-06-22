@@ -8,8 +8,8 @@ export default function Modal({message,handleNotVisible,className}) {
         <div  className={className}>
         <div className='modal-Container'>
         <div className='modal'>
-        <p>{message}</p>
-        <button onClick={handleNotVisible}>X</button>
+        <p data-testid="message">{message}</p>
+        <button data-testid="button-close"  onClick={handleNotVisible}>X</button>
         </div>
         </div>
         </div>
